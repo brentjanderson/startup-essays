@@ -1,0 +1,42 @@
+# First Principles
+There are a handful of core principles that will exist for every business, and that entrepreneurs must start with in order to succeed in running a business. These first principles are the foundation for every process, innovation, and development that we experience day-to-day in building and scaling a startup.
+
+Many of the other essays in this collection expand on these principles in various ways.
+
+## Value Creation: The heart of business
+Value: The heart of every business is built around the creation of value. Value creation takes a variety of forms, but ultimately a business exists to create value that it shares with customers, employees, partners, owners, society, and nature[^nature]. Entrepreneurs must understand value creation in order to understand their business. Without value, every business would be meaningless.
+
+With each party mentioned previously (customers, employees, etc.), value is not only shared, but exchanged.
+
+|Stakeholder	|Gives				|Receives						|
+|---------------|-------------------------------|-------------------------------------------------------|
+|Employees	|Time				|Salary, benefits, ownership				|
+|Customers	|Money, data, or time		|Product or service that fulfills a job to be done	|
+|Partners	|Supplies or expertise		|Money or licensing					|
+|Nature		|Natural resources		|Stewardship						|
+|Society	|Infrastructure, employees	|Taxes							|
+|Owners		|Investment			|Equity							|
+
+Businesses that stand the test of time must adapt to balance the exchange of value between all parties, with a broad view as to those who may be considered stakeholders. Ultimately, the exchange of value should not be asymmetrical, as value creation exists where both sides of the exchange are better off for the transaction.
+Ultimately, the principle of value creation is the mechanism operating at the heart of the business, and everything that expands from this principle is built to support it. Frequently it seems that businesses lose track of creating value, and instead bend the relationship between each stakeholder in an imbalanced way. Founders and employees must constantly evaluate the value being exchanged with each relationship, and should base decisions on how well it aligns with those involved. There will always be tradeoffs, and times when one of these relationships will seem imbalanced (e.g. an investor may expect returns years after they first provide their capital). Over the long-term, however, every business must balance each of these exchanges, starting at the top of the above list and working its way down.
+Employees start at the top, because they are the root of all value creation. A company will shift strategy, process, and even the value it seeks to create over time, but people are what make the company. They imbue it with culture, which can take years to change if something is amiss. 
+Customers are a very close second. Without customers, there is no business, for customers provide the key feedback necessary to learn your way from failure to success. Customers receive a product or service so that they can fulfill a specific job to be done[^jobs-to-be-done].
+Partners and nature are next in line. No business exists in a vacuum. Every business depends upon partners of some kind to supply materials, parts, and expertise. Competitors would quickly outpace a business that attempted to be fully self-sufficient, since partners can provide key ingredients that would potentially be impossible to invent from scratch. Nature is a unique partner, in that it requires advocacy in order to maintain balance with its own relationship.
+Society provides a host of infrastructure to every business. From obvious things like roads and utilities, to legal systems, medical support, an educated workforce, and more. For these things, taxes are a minimum piece of the exchange. Many businesses work to support local institutions through volunteering and service or charitable donations, each of which feeds back into the society for other organizations as well as the business itself.
+Owners are placed last on the list, since a complete business cannot come to full fruition for an owner without having balanced the other considerations first. Owners who “cash out” of a business before ensuring that some measure of balance exists for the other relationships achieve a personal outcome at the expense of others.
+
+[^nature]: Exchanges with nature are typically imbalanced, and environmentalism or other related efforts ultimately aim to balance this exchange, e.g. through recycling, ecology management, etc.
+[^jobs-to-be-done]: See other essays on "Jobs to be done" for more information on this important topic.
+
+## Learning: Finding your way in the wilderness
+> "He not busy being born is busy dying." ~ Bob Dylan
+
+Every business goes through two phases. The first phase is the search for a viable business model. The second phase is the execution of that business model. Each phase requires a different strategy and mindset, and should be measured with different key indicators to know how well it is doing.
+The default mode for startups is failure. From day one, every business starts with doom in its future. This only changes once the startup learns how its value fits into the marketplace, and how to then deliver the value. From that moment, it is now in a mode of success, and that success is what enables the business to continue to fulfill its mission to create value.
+
+## Growth: The sustaining force
+Growth is an interesting first principle, because unconstrained growth can kill organizations as much as anemic or negative growth. The primary factor for growth as a foundational principle is that a business is either shrinking or growing. Businesses that grow their Ultimately, if a business is consistently shrinking, it will inevitably die, and it is from this lens that growth becomes a foundational principle.
+Even with growth, every business starts out in a phase of “free fall”. The analogy is sometimes that a startup is like jumping out of an airplane with a bundle of nylon rope and silk. Until you get that nylon rope and silk formed into a parachute, you have a fixed amount of time before you hit the ground.
+
+## Culture: The company's first product
+Culture is a company's first product. In the same way that a startup must attract customers to whom it sells its product, a startup must attract talent to fulfill its mission. Employees at a startup exchange their time for salary, benefits, and ownership. They may also receive experience, learning, or other intangibles. Ultimately, however, culture is what attracts employees at every stage in the company's life. A great compensation package from a company with a toxic culture will ultimately not attract the employees that will best fulfill a company's mission. Even before compensation is a possibility, founders and early employees sign on because of the vision, the comraderie, and ultimately the culture formed around the startup. This culture is the first and most important product a startup develops, and it requires development, maintenance, and adjustments like any other product would.

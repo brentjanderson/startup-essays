@@ -1,0 +1,3 @@
+# Introduction
+
+This is a collection of essays on various lessons I have learned over the last 10 years. Each essay is intended to be a bite-sized slice of general purpose startup wisdom that could be used on its own or in concert with concepts from other essays. Given that this is a work in progress, it will take quite a bit of time to organize fully.
